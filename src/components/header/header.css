@@ -1,0 +1,18 @@
+.header {
+    margin-block-start: 2rem;
+    margin-inline: auto;
+    display: flex;
+    gap: 1.25rem;
+    align-items: center;
+    width: max-content;
+}
+
+.header__img {
+    border-radius: 8px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+.header__hed {
+    font-size: 1.5rem;
+    font-weight: 700px;
+}
